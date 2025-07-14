@@ -71,5 +71,3 @@ Predict whether a customer is likely to **churn (leave the bank)** using demogra
 
 ---
 
-## 📁 Project Structure
-
